@@ -19,7 +19,7 @@
         lastName : document.getElementById('lastname').value,
        };
     }
-    const number = 80;
+    const number = 100;
     console.log(number);
 </script>
 
