@@ -19,8 +19,6 @@
         lastName : document.getElementById('lastname').value,
        };
     }
-    const number = 120;
-    console.log(number);
 </script>
 
 
